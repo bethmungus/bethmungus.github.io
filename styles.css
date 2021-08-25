@@ -134,7 +134,7 @@ figure {
 }
 
 .locations {
-    background-image:url("Images/img-locations-background.jpg");
+    background-image:url("./images/img-locations-background.jpg");
     height: 700px;
     width: auto;
     background-repeat: no-repeat;
